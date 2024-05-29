@@ -39,6 +39,6 @@
 4. **Drop Non-Dominant Terms**: Keep only the most significant term.
 
 
-For a detailed explanation, please refer to the `BigO.md` file in the GitHub repository. The `BigO.md` file explains how to analyze the time and space complexity of different algorithms, helping you understand their efficiency and performance.
+- For a detailed explanation, please refer to the `BigO.md` file in the GitHub repository. The `BigO.md` file explains how to analyze the time and space complexity of different algorithms, helping you understand their efficiency and performance.
 
 
